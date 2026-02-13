@@ -1,5 +1,7 @@
 # NeuralNet-From-Scratch
  Building a Neural Network Using Pure Linear Algebra
+
+ 
 Author: Kendall Chinchilla Araya  
 Systems Engineer – AI Engineer in Training  
 Costa Rica 🇨🇷  
